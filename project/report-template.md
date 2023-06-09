@@ -3,7 +3,7 @@
 
 ## Initial Training
 ### What did you realize when you tried to submit your predictions? What changes were needed to the output of the predictor to submit your results?
-Negative predictions are not valid and the submission may be rejected due to this. We need to set this predictions to be 0 before submitting. 
+Test - Test test Negative predictions are not valid and the submission may be rejected due to this. We need to set this predictions to be 0 before submitting. 
 
 ### What was the top ranked model that performed?
 The one that worked bettter with kaggle predictions was the one we tunned which gave us a public score of 1.22 but it did not perform well with our training set giving us a score of 139. However, the one that worked better with our training set was the add_features one.
